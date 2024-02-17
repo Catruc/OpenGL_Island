@@ -19,6 +19,8 @@ Full Camera and Mouse Controls: Navigate through the scene with intuitive camera
 Getting Started:
 To dive into this OpenGL scene, clone the repository and follow the setup instructions provided. Whether you're a graphics enthusiast or a developer looking to explore OpenGL capabilities, this project offers a rich platform for experimentation and learning.
 
+The main object (the Island) was too large to upload it. If you need it just send an e-mail at dan.catruc@gmail.com and I will send it to you.
+
 
 <img width="799" alt="CatrucAlexandruDan_gr30238_scr" src="https://github.com/Catruc/OpenGL_Island/assets/122831040/8e911770-69ce-47b6-a325-0927150d8b21">
 
